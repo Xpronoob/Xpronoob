@@ -1,16 +1,16 @@
-## Hi there 👋
+# Hi, I'm Kevin Marin 👋
 
-<!--
-**Xpronoob/Xpronoob** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### About Me
+I'm a soon-to-be graduate in Computer Systems Engineering. I'm passionate about learning and developing full-stack applications. Currently, I'm diving deep into JavaScript, TypeScript, Node.js, and Express. I've also built complete applications using Laravel.
 
-Here are some ideas to get you started:
+### Technologies & Tools
+- **Languages:** JavaScript, TypeScript, PHP
+- **Frameworks/Libraries:** Laravel, Node.js, Express
+- **Databases:** MySQL, SQL
+- **Others:** Git, HTML, CSS, Tailwind, Bootstrap
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Contact
+- **Telegram:** [Kevin Marin]()
+- **LinkedIn:** [Kevin Marin]()
+
+Thanks for visiting my GitHub profile! I'm always open to new projects and learning opportunities. Feel free to reach out!
