@@ -1,12 +1,12 @@
 # Hi, I'm Kevin Marin 👋
 
 ### About Me
-I'm a Computer Systems Engineering. I'm passionate about learning and developing full-stack applications. Currently, I'm diving deep into JavaScript, TypeScript and Node.js. I've also built complete applications using Laravel.
+I'm a Computer Systems Engineer. I'm passionate about learning and developing full-stack applications.
 
 ### Technologies & Tools
 - **Languages:** JavaScript, TypeScript, PHP
-- **Frameworks/Libraries/Enviroments:** Laravel, Node.js, Express
-- **Databases:** MySQL, SQL
+- **Frameworks/Libraries/Enviroments:** Laravel, Node.js, Express.js
+- **Databases:** SQL, NoSQL
 - **Others:** Git, HTML, CSS, Tailwind, Bootstrap
 
 ### Contact
